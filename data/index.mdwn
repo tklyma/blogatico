@@ -1,0 +1,9 @@
+Oi Mundo!
+=========
+
+Testando o blogático!
+
+Implementação
+-------------
+
+Utiliza [Pandoc](http://pandoc.org)
